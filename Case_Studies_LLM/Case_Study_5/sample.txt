@@ -1,0 +1,28 @@
+📁 Restaurant Review Sentiment Analysis
+
+This project focuses on analyzing customer reviews from restaurants to determine their sentiment — whether positive or negative — using Natural Language Processing (NLP) techniques and machine learning.
+
+─────────────────────────────
+📄 restaurant_reviews.csv
+─────────────────────────────
+This dataset contains a collection of restaurant reviews written by customers.  
+Each entry includes:
+- **Review** — The text feedback from a customer.
+- **Liked** — The sentiment label (1 for positive, 0 for negative).
+
+The dataset is used to train and test sentiment classification models.
+
+─────────────────────────────
+📘 Restaurant-Review-Sentiment-Analysis.ipynb
+─────────────────────────────
+This Jupyter Notebook performs step-by-step sentiment analysis on the restaurant reviews dataset.  
+It includes:
+- Data preprocessing (cleaning, tokenization, stopword removal, stemming)
+- Feature extraction using Bag of Words or TF-IDF
+- Model training using algorithms like Naive Bayes or Logistic Regression
+- Evaluation using accuracy, confusion matrix, and visualizations
+
+─────────────────────────────
+🎯 Summary
+─────────────────────────────
+The project demonstrates how NLP and supervised machine learning can interpret text reviews and automatically classify customer sentiments. It provides a foundation for building intelligent review analysis systems used in real-world applications such as recommendation engines and customer feedback analytics.
