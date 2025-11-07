@@ -1,0 +1,2 @@
+The folder "LLM_CASE_STUDIES" contains all case studies related to Large Language Models (LLMs).  
+Each subfolder (e.g., case_study_1, case_study_2, etc.) includes a detailed Jupyter Notebook, dataset files, and supporting documentation.  
