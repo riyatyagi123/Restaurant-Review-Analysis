@@ -1,0 +1,9 @@
+This folder contains materials exploring Artificial Intelligence (AI) and organizational innovation. 
+
+1. sample_text.txt — Explains how AI is transforming industries such as healthcare, education, entertainment, environment, and space exploration. It also highlights challenges like job automation and ethics in AI.
+
+2. LLM4.ipynb — A Jupyter Notebook demonstrating NLP and Large Language Model (LLM) techniques for analyzing, summarizing, and visualizing AI-related text data.
+
+3. HBR_How_Apple_Is_Organized_For_Innovation.pdf — A Harvard Business Review article analyzing Apple’s unique functional structure where experts lead experts, enabling continuous innovation through collaboration and attention to detail.
+
+Together, these files showcase how AI drives global transformation and how expert-led organizational models, like Apple’s, sustain technological innovation.
