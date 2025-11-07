@@ -1,0 +1,13 @@
+This section of the LLM_CASE_STUDIES repository focuses on the third case study: 
+“Attention Mechanism and Transformers in News Classification.”
+
+─────────────────────────────
+📘 CASE STUDY OVERVIEW
+─────────────────────────────
+The project explores how modern transformer-based architectures, such as BERT and 
+Sentence transformers, can be applied to efficiently categorize and analyze large volumes 
+of text data—in this case, news articles. 
+
+The problem is set within the context of the fast-paced media industry, where timely and 
+accurate content classification is essential for audience engagement and information 
+relevance.
