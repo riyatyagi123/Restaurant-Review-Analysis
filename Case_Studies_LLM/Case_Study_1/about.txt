@@ -1,0 +1,14 @@
+This Jupyter Notebook contains a Natural Language Processing (NLP) case study that demonstrates text data preprocessing, sentiment analysis, and visualization using machine learning and NLP techniques.
+Key operations include:
+
+Data loading and cleaning of product reviews
+
+Tokenization, stopword removal, and stemming
+
+Sentiment classification using ML models (e.g., Logistic Regression, Naive Bayes)
+
+Word frequency and word cloud visualization
+
+Model performance evaluation using accuracy and confusion matrix
+
+This notebook serves as a complete workflow example for text analytics and sentiment prediction using Python.
