@@ -1,0 +1,8 @@
+This notebook builds upon the first study by applying advanced text modeling techniques.  
+It includes:
+- Deep Learning approaches such as LSTM or Transformer-based architectures
+- Embedding representations (Word2Vec, GloVe, or BERT embeddings)
+- Comparative evaluation between traditional ML and LLM-based models
+- Analysis of contextual sentiment and fine-tuning for accuracy improvements
+
+This case study highlights the evolution from classical NLP to LLM-driven sentiment modeling.
